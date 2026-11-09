@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Livin' Food Stamp — Prototipe</title>
+  <meta name="description" content="Prototipe klik Livin' Food Stamp Loyalty: kartu stamp per merchant, nudge checkout, animasi stamp, voucher, dan dashboard rekonsiliasi merchant.">
+  <link rel="icon" type="image/png" href="assets/logo-mark.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="app" id="app" data-view="app">
+    <main class="stage">
+      <div class="phone" id="phone" data-status="blue">
+        <div class="phone-inner">
+          <div class="statusbar" aria-hidden="true">
+            <span class="sb-time">9:41</span>
+            <span class="island"></span>
+            <span class="sb-icons" id="sb-icons"></span>
+          </div>
+          <div class="screen" id="screen"></div>
+          <div class="overlay" id="overlay" hidden></div>
+          <div class="toast" id="toast" role="status" aria-live="polite"></div>
+        </div>
+      </div>
+      <section class="dash" id="dash" hidden aria-label="Merchant Dashboard"></section>
+    </main>
+    <aside class="panel" id="panel" aria-label="Panel demo"></aside>
+  </div>
+
+  <script src="js/engine.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/services.js"></script>
+  <script src="js/sound.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
