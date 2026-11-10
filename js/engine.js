@@ -10,7 +10,7 @@
   const TIER_FREE_MEAL = 'TIER_10_FREE_MEAL';
 
   const RULES = {
-    STAMP_VALUE: 150000, // 1 stamp per Rp150.000 of food subtotal
+    STAMP_VALUE: 100000, // 1 stamp per Rp100.000 of food subtotal
     CYCLE_SIZE: 10,
     MILESTONES: { 5: TIER_DISC50, 10: TIER_FREE_MEAL },
     DISCOUNT_PERCENT: 50, // milestone 1 voucher

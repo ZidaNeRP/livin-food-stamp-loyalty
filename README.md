@@ -10,7 +10,7 @@ Double-click `index.html`. It runs in any modern browser with no install or serv
 
 | PRD section | Where to see it |
 |---|---|
-| §2 Stamp rules: Rp150.000 = 1 stamp (PRD said Rp100.000; changed on request), counted on the food subtotal only, leftover is lost | Cart → *Food Stamp* box; Riwayat (order history) |
+| §2 Stamp rules: Rp100.000 = 1 stamp, counted on the food subtotal only, leftover is lost | Cart → *Food Stamp* box; Riwayat (order history) |
 | §2 Milestones: stamp 5 gives a 50% voucher (max Rp30.000), stamp 10 gives a Free Meal | Payment animation → gift box → Voucher Saya |
 | §3.1 Merchant banner and stamp card (3/10) | Beranda → KFC / McDonald's |
 | §3.2 Cart nudge "Tanggung banget!" with quick-add buttons | Cart with a subtotal within Rp30.000 of the next stamp |
@@ -19,7 +19,7 @@ Double-click `index.html`. It runs in any modern browser with no install or serv
 | §4.3 Merchant "Klaim Reward Loyalty" reconciliation | Demo panel → *Dashboard Merchant* |
 | §5 Co-funding unit economics | Dashboard Merchant → *Unit ekonomi per 10 stamp* |
 
-**Demo panel shortcuts:** set the stamp count to 4 or 9 to reach a milestone fast, load a Rp135.000 cart to trigger the nudge, or load a Rp320.000 cart to earn 2 stamps and see the Rp20.000 leftover lost.
+**Demo panel shortcuts:** set the stamp count to 4 or 9 to reach a milestone fast, load a Rp85.000 cart to trigger the nudge, or load a Rp220.000 cart to earn 2 stamps and see the Rp20.000 leftover lost.
 
 ## Rule decisions to confirm
 

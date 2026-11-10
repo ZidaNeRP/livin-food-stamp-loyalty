@@ -61,9 +61,9 @@
 
     // Ready-made carts for the demo panel.
     demoCarts: {
-      // near: Rp135.000 / Rp133.000 (just short of 1 stamp). multi: Rp320.000 / Rp322.000 (2 stamps + leftover).
-      kfc: { near: { 'kfc-sb2': 1, 'kfc-bento': 1, 'kfc-zinger': 1, 'kfc-mocha': 1 }, multi: { 'kfc-bucket': 2, 'kfc-sb2': 2 } },
-      mcd: { near: { 'mcd-bigmac': 1, 'mcd-panas2': 1, 'mcd-cheese': 1 }, multi: { 'mcd-family': 1, 'mcd-panas2': 2, 'mcd-bigmac': 1 } },
+      // near: Rp85.000 / Rp87.000 (just short of 1 stamp). multi: Rp220.000 (2 stamps + Rp20.000 leftover).
+      kfc: { near: { 'kfc-sb2': 1, 'kfc-bento': 1 }, multi: { 'kfc-bucket': 1, 'kfc-sb2': 2, 'kfc-mocha': 1 } },
+      mcd: { near: { 'mcd-bigmac': 1, 'mcd-cheese': 1 }, multi: { 'mcd-family': 1, 'mcd-cheese': 1, 'mcd-flurry': 1, 'mcd-tea': 1 } },
     },
 
     // Program totals before this demo session, shown on the Merchant Dashboard (sample data).
